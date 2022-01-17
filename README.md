@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bem Vindo ao meu GitHub.
 
-<!--
-**LuizAntonioDassan/LuizAntonioDassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estou a procura de um estágio.
+- 🌱 Aprendendo Java - Android Studio
+- 👯 Realizando Projetos do curso de Java do Jamilton Damasceno.
+- ⚡ Tenho mania de copiar pessoas legais.
+- 👨‍🎓 Cursando Ciências da Computação na UFMS
+- 👦 20 Anos
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizAntonioDassan&show_icons=true&theme=merko)
+
+
+
