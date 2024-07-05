@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estagiário da Feax Informática.
+- 🔭 Analista Junior e Desenvolvedor da Feax Informática.
 - 🌱 Aprendendo Dart/Flutter.
 - 👯 Realizando Projetos do curso de Dart.
 - ⚡ Tenho mania de copiar pessoas.
